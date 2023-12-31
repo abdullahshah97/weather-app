@@ -1,5 +1,4 @@
 import './App.css';
-import {Route, BrowserRouter as Router, Routes} from "react-router-dom";
 import Weather from "./components/Weather";
 import {useEffect, useState} from "react";
 
